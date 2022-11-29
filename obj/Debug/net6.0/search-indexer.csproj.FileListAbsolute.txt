@@ -1,0 +1,15 @@
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.csproj.AssemblyReference.cache
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.AssemblyInfo.cs
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\GitHub\search-indexer\bin\Debug\net6.0\search-indexer.exe
+C:\Users\bruno\Documents\GitHub\search-indexer\bin\Debug\net6.0\search-indexer.deps.json
+C:\Users\bruno\Documents\GitHub\search-indexer\bin\Debug\net6.0\search-indexer.runtimeconfig.json
+C:\Users\bruno\Documents\GitHub\search-indexer\bin\Debug\net6.0\search-indexer.dll
+C:\Users\bruno\Documents\GitHub\search-indexer\bin\Debug\net6.0\search-indexer.pdb
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.dll
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\refint\search-indexer.dll
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.pdb
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\search-indexer.genruntimeconfig.cache
+C:\Users\bruno\Documents\GitHub\search-indexer\obj\Debug\net6.0\ref\search-indexer.dll
