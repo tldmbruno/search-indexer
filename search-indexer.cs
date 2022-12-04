@@ -1,27 +1,33 @@
 ﻿namespace SearchIndexer;
 using System;
 
-// Github: tldmbruno
-
-// WIP - Prototyping stage
-// A modular search indexer for quick and easy search results for projects.
-// It returns a tagged search result, easily parsable to apply in websites and UIs.
-
-/*
-	USAGE:
-	searchindexer <search> <file>
-	'search' is the search query
-	'file' is any multi line text file
-*/
-
 class Program {
 	public static void Main(string[] args) {
-		string results = "";
-		
+		// If there is arguments present, proceed normally
 		if (args.Length > 0) {
-			results = args[0];
-		}
+			// Initialize relevant variables
+			string searchQuery = args[args.Length-1];
+			string<List> results = new string<List>;
+			
+			// Fetches all files
+			for (int i = 0; i < args.Length-1; i++) {
+				results[i] = args[i];
+			}
 		
-		Console.WriteLine("RESULTS: " + results);
+			// Tells the search query
+			Console.WriteLine($"Search Query: {searchQuery}");
+			
+			// Prints the search results
+			Console.WriteLine("Top Results: ");
+			
+			foreach (string item in results) {
+				Console.WriteLine($"- {item}");			
+			}
+		}
+		else {
+			// Show the user the help message
+			Console.WriteLine("No arguments were included.");
+			Console.WriteLine("Usage: search-indexer <file1> <file2> <file3> ... <search-query>");
+		}
 	}
 }

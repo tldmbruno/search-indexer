@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4virgTWCawYpZlAAgs6WOeXXeDY+xu/MmrjmWd1Ar+JeZ1huZeIQhMAUl7Ufd17Yke/ZsVahs2NLMzqw8ianA==",
+  "dgSpecHash": "u7GofrODpPjgAoTjFEFYEUakxJkAYo7c89xofIe56K5nHIp31i2kg7C1zO09aSBGE2ngTyJsDtKVmgpnEd3DRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruno\\Documents\\GitHub\\search-indexer\\search-indexer.csproj",
+  "projectFilePath": "/home/bruno/Documentos/GitHub/search-indexer/search-indexer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
